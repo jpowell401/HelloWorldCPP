@@ -13,5 +13,7 @@ int main()
     sum = num1 + num2;
 
     cout << num1 << " + " << num2 << " = "<< sum << endl;
+
+    cout << "This is to test a new git commit" << endl;
     return 0;
 }
